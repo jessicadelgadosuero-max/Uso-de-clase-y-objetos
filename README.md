@@ -64,7 +64,12 @@ imágenes del programa:
 <img width="1470" height="747" alt="image" src="https://github.com/user-attachments/assets/a48703d5-5ab7-43a6-8550-f566c5fd0bae" />
 
 
+
+
 <img width="921" height="517" alt="image" src="https://github.com/user-attachments/assets/1a1265a1-0442-474c-be42-d4bc0d0062a0" />
+
+
+
 
 
 <img width="921" height="401" alt="image" src="https://github.com/user-attachments/assets/27235c7e-cac3-4312-8e2c-fcfdcfce0748" />
